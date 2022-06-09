@@ -1,6 +1,6 @@
 ## Olá Mundo! Sou a Rafaela Aponia 🔥
 - 👝 Sou advogada com foco em Direito Imobiliário 
-- 🌱 Atualmente estou estudando HTML, CSS, Java Script, Typescript, React, Node.Js, GIT e GraphQl 
+- 🌱 Atualmente estou estudando HTML, CSS, Java Script, Angular e JAVA.
 - 📫 Para me contactar mande um email: para rafaelaapa@outlook.com
 - 😄 Pronouns: ela/dela
 
